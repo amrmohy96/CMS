@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="114fd2fc-a12c-4e4f-9ff1-b11c642466d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1igIGVUOVmAH8RXVc7QvTf6FSkl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/frontend/users" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/layouts/includes/frontend" />
+      <recent name="$PROJECT_DIR$/public/frontend/js" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers/Frontend" />
+      <recent name="$PROJECT_DIR$/resources/views/frontend" />
+      <recent name="$PROJECT_DIR$/app/Models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/frontend/users" />
+      <recent name="$PROJECT_DIR$/public/frontend/js/fileinput" />
+      <recent name="$PROJECT_DIR$/resources/views/frontend/users/include" />
+      <recent name="$PROJECT_DIR$/public/assets/posts" />
+      <recent name="$PROJECT_DIR$/public/frontend/css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="114fd2fc-a12c-4e4f-9ff1-b11c642466d1" name="Default Changelist" comment="" />
+      <created>1602322712161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602322712161</updated>
+      <workItem from="1602322713941" duration="3379000" />
+      <workItem from="1602333037637" duration="4870000" />
+      <workItem from="1602349898288" duration="69780000" />
+      <workItem from="1602645632489" duration="12637000" />
+      <workItem from="1602742561576" duration="571000" />
+      <workItem from="1602743221503" duration="17164000" />
+      <workItem from="1602823310726" duration="17000" />
+      <workItem from="1602826096119" duration="1604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="109" key="#HTTP_Proxy" timestamp="1602645177825">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="460" y="109" key="#HTTP_Proxy/0.0.1366.768@0.0.1366.768" timestamp="1602645177825" />
+    <state x="283" y="32" key="#Plugins" timestamp="1602645667933">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="283" y="32" key="#Plugins/0.0.1366.768@0.0.1366.768" timestamp="1602645667933" />
+    <state x="487" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1602405093666">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="487" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602405093666" />
+    <state x="401" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602826959303">
+      <screen x="0" y="23" width="1366" height="696" />
+    </state>
+    <state x="401" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1366.696@0.23.1366.696" timestamp="1602826959303" />
+    <state x="421" y="155" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602695866412">
+      <screen x="0" y="23" width="1366" height="696" />
+    </state>
+    <state x="421" y="146" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.768@0.0.1366.768" timestamp="1602566393365" />
+    <state x="421" y="155" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.23.1366.696@0.23.1366.696" timestamp="1602695866412" />
+    <state x="382" y="101" key="NewPhpClassDialog" timestamp="1602512202601">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="382" y="101" key="NewPhpClassDialog/0.0.1366.768@0.0.1366.768" timestamp="1602512202601" />
+    <state x="506" y="310" key="NewPhpFileDialog" timestamp="1602512218344">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="506" y="310" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1602512218344" />
+    <state x="192" y="0" key="SettingsEditor" timestamp="1602798357928">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="192" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602798357928" />
+    <state x="192" y="23" key="SettingsEditor/0.23.1366.696@0.23.1366.696" timestamp="1602796785331" />
+    <state x="391" y="108" width="627" height="580" key="find.popup" timestamp="1602675318004">
+      <screen x="0" y="23" width="1366" height="696" />
+    </state>
+    <state x="391" y="94" width="584" height="580" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1602334883145" />
+    <state x="391" y="108" width="627" height="580" key="find.popup/0.23.1366.696@0.23.1366.696" timestamp="1602675318004" />
+    <state x="348" y="65" width="670" height="613" key="search.everywhere.popup" timestamp="1602793994281">
+      <screen x="0" y="23" width="1366" height="696" />
+    </state>
+    <state x="348" y="46" width="670" height="676" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1602661620571" />
+    <state x="348" y="65" width="670" height="613" key="search.everywhere.popup/0.23.1366.696@0.23.1366.696" timestamp="1602793994281" />
+  </component>
+</project>
